@@ -1,4 +1,4 @@
-android
-=======
+android-tictactoe
+=================
 
-Android applications
+Basic TicTacToe android app with history and reset button
